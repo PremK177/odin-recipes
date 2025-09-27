@@ -1,5 +1,7 @@
 # odin-recipes
 
+Landing page: https://premk177.github.io/odin-recipes/
+
 Iteration 1: initial structure
 
     Within the odin-recipes directory, create an index.html file.
